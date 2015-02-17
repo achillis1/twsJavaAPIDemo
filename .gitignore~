@@ -38,5 +38,3 @@ Assessment Files - incoming/
 #ignore temporary Excel files
 ~*.xlsm
 ~*.xls
-#ignore class files
-*.class
