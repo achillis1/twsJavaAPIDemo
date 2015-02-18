@@ -40,3 +40,5 @@ Assessment Files - incoming/
 ~*.xls
 #ignore class files
 *.class
+/nbproject/private/
+/build/
